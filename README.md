@@ -63,9 +63,7 @@ Edit, Update or Delete book is possible only by the owner
 Add a new book to the shelf for other users to be able to borrow (with validation)
 ![Add a book](./src/main/resources/static/images/screenshots/addbook.png)
 
-
 <br>
-
 
 
 ## Setup and Usage
