@@ -55,7 +55,7 @@ The return button will return back to the shelve.
 ![Return borrow](./src/main/resources/static/images/screenshots/borrowreturn.png)
 
 
-User can click on any avalaible book and read thoughts from the owner of the book
+Users can click on any available book and read thoughts from the owner of the book
 ![Show book](./src/main/resources/static/images/screenshots/show%20book.png)
 
 Edit, Update or Delete book is possible only by the owner
