@@ -58,7 +58,7 @@ The return button will return back to the shelve.
 Users can click on any available book and read thoughts from the owner of the book
 ![Show book](./src/main/resources/static/images/screenshots/show%20book.png)
 
-Edit, Update or Delete book is possible only by the owner
+Edit, Updating or Delete the book is possible only by the owner
 ![Edit/Update Profile](./src/main/resources/static/images/screenshots/edit-update.png)
 
 Add a new book to the shelf for other users to be able to borrow (with validation)
