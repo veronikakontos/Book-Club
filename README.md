@@ -11,15 +11,16 @@
   - [Project Status](#project-status)
   - [Room for Improvement](#room-for-improvement)
   - [Contact](#contact)
+
     
   
 
 ## General Information
-This project is a full-stack web application built using Java, Css, Html, Spring, MySQL
+This project is a full-stack web application built using Java, CSS, Html, Spring, MySQL
 
-After registering an account user can create a new book to their Online Library bookshelve with ability to edit or delete a book.
-New user has to register to be able to see how many books are avalaible.
-Books are avalaible to borrow and return.
+After registering an account users can create a new book to their Online Library bookshelves with ability to edit or delete a book.
+A new user has to register to be able to see how many books are available.
+Books are available to borrow and return.
 <br>
 
 ## Technologies Used
