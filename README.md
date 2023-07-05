@@ -33,7 +33,7 @@ Books are available to borrow and return.
 
 ## Features
 - Login and registration with validation and Bcrypt for password security
-- Thoughts about book - AKA reviews 
+- Thoughts about the book - AKA reviews 
 - Borrow function
 - Return function
 - Edit function
