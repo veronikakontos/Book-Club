@@ -51,7 +51,7 @@ Main Homepage where only registered and Logged in User can see books created by 
 ![All books](./src/main/resources/static/images/screenshots/welcome.png)
 
 
-User who is Log In, will see his/her/their name and can see books that are able to be borrowed. 
+The user who is Log In, will see his/her/their name and can see books that are able to be borrowed. 
 Return button will return back to the shelve.
 ![Return borrow](./src/main/resources/static/images/screenshots/borrowreturn.png)
 
