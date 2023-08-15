@@ -29,7 +29,6 @@ Books are available to borrow and return.
 - HTML5
 - CSS
 
-
 ## Features
 - Login and registration with validation and Bcrypt for password security
 - Thoughts about the book - AKA reviews 
