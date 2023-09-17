@@ -54,6 +54,7 @@ The return button will return back to the shelve.
 ![Return borrow](./src/main/resources/static/images/screenshots/borrowreturn.png)
 
 
+
 Users can click on any available book and read thoughts from the owner of the book
 ![Show book](./src/main/resources/static/images/screenshots/show%20book.png)
 
