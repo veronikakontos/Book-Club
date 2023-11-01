@@ -14,9 +14,9 @@
 
     
 ## General Information
-This project is a full-stack web application built using Java, CSS, Html, Spring, MySQL
+This project is a full-stack web application built using Java, CSS, HTML, Spring, MySQL
 
-After registering an account users can create a new book to their Online Library bookshelves with ability to edit or delete a book.
+After registering an account users can create a new book to their Online Library bookshelves with the ability to edit or delete a book.
 A new user has to register to be able to see how many books are available.
 Books are available to borrow and return.
 <br>
