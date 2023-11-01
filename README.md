@@ -82,6 +82,7 @@ Project MVP: Complete. However, additional features are planned!!
 
 <br>
 
+
 ## Contact
 Created by [@veronikakontos](https://www.linkedin.com/in/veronika-kontogiannopoulos/) - feel free to contact me!
 
