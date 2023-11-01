@@ -77,7 +77,7 @@ The project can be run in editing code such as VS Code, Sublime, etc . . .
 
 
 ## Project Status
-Project MVP: Complete. However, additional features planned!!
+Project MVP: Complete. However, additional features are planned!!
 
 
 <br>
