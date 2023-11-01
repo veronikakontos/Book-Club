@@ -27,7 +27,6 @@ Books are available to borrow and return.
 - Bcrypt
 - Spring Boot
 - HTML5
-  
 - CSS
 
 ## Features
