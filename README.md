@@ -12,7 +12,7 @@
   - [Room for Improvement](#room-for-improvement)
   - [Contact](#contact)
 
-    
+
 ## General Information
 This project is a full-stack web application built using Java, CSS, HTML, Spring, MySQL
 
